@@ -1,6 +1,8 @@
 angular-route-segment [![Build Status](https://secure.travis-ci.org/artch/angular-route-segment.png?branch=master)](https://travis-ci.org/artch/angular-route-segment)
 =====================
 
+This is a fork of original repository [$route](https://github.com/artch/angular-route-segment). I've created it to implemet shorthand for `$routeProvider.otherwise()` method.
+
 A lightweight extension for [AngularJS](http://angularjs.org/) [$route](http://docs.angularjs.org/api/ngRoute.$route) service which supports tree-like nested views and routes hierarchy, and advanced loading flow handling.
 
 Getting Started
