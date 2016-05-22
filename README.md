@@ -1,4 +1,4 @@
-angular-route-segment [![Build Status](https://secure.travis-ci.org/artch/angular-route-segment.png?branch=master)](https://travis-ci.org/artch/angular-route-segment)
+angular-route-segment
 =====================
 
 This is a fork of [original repository](https://github.com/artch/angular-route-segment). I've created it to implemet shorthand for `$routeProvider.otherwise()` method.
