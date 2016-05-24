@@ -88,7 +88,10 @@ $routeSegmentProvider.
 
     segment('s2', {
         templateUrl: 'templates/section2.html',
-        controller: MainCtrl});
+        controller: MainCtrl}).
+
+    otherwise('/section1/prefs');
+
 ```
 
 Alternatively, you can use this syntax instead of traversing (useful if you want modules to have their own separately defined routes):
